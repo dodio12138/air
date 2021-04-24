@@ -1,2 +1,2 @@
-# air_conditioning_web
- air_conditioning
+#电子空调
+仿生人会开电子空调吗
